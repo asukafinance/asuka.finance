@@ -107,3 +107,111 @@ ASUKA는 USDT나 USDC 같은 달러 태환 가상 자산과는 달리 DAI라는 
 정리하면 저는 이더리움 메인넷 위에 소유하고 있는 계좌가 없으며, https://etherscan.io/address/0xba7a937588035f953161160fea6cd880e46e6b33 이 계좌는 제가 관리했던 계좌가 아님을 말씀 드립니다.
 
 부디 미디어와 서비스들이 ASUKA 에 대한 색안경을 버리고 바라봐 주셨으면 감사하겠습니다.
+
+### Update about Refund ( 08-09 )
+
+More than 7,985,000 DAI ( 99.81% from total 8,000,000 DAI ) has completed the refund by the contract to users account.
+
+However, since there are about 15,000 DAI left on the reward contract https://pools.balancer.exchange/#/pool/0xb135b31665bd67c4497f6eb3d5964e8897e5feb7/ , 
+
+I have decided to upload the guide for withdrawing your staked DAI against ASUKA
+
+#### 1. Withdraw your Balancer Pool Token from the contract
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/1-eng.png">
+
+https://etherscan.io/address/0x7b239f1d46cb93abf668beffaffdd1a928710e2a#code
+
+Go to Etherscan Contract page, Connect your metamask with Etherscan, and click Write under the Exit tab.
+
+#### 2. Withdraw your DAI from the contract
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/2-eng.png">
+
+https://pools.balancer.exchange/#/pool/0xb135b31665bd67c4497f6eb3d5964e8897e5feb7/
+
+Go to Balancer Pool page, Connect your Metamask with Etherscan, and click Remove Liquidity button to withdraw your DAI from the Pool
+
+#### Again, about 99% of the DAI balance has succeeded its withdrawal by users.
+
+#### I don't use my telegram and Kakaotalk account since Aug 3rd, and the only contract of mine is Discord ( Jongchan J.#9357 - Inactive, asuka.finance#1669 ), Twitter ( https://twitter.com/asukafinance ) , and my Gmail account ( crypto.asuka@gmail.com - Inactive, asukafinance20@gmail.com ). Please be warned for impersonation. I never ask for your coins, tokens, dai, or ASUKA token.
+
+### 환불에 대한 업데이트 ( 08-09 )
+
+전체 8,000,000 DAI 대비 7,985,000 DAI ( 99프로 이상 ) 가 컨트랙트에서 유저들에 의해 환불 처리되었음을 확인하였으며, 그럼에도 불구하고 아직 만오천개 이상의 다이가 컨트랙트에 남아 있는 것을 확인하여 DAI 환불 방법에 대해 적습니다.
+
+#### 1. Balancer Pool Token 을 contract 에서 출금합니다
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/1.PNG">
+
+https://etherscan.io/address/0x7b239f1d46cb93abf668beffaffdd1a928710e2a#code
+
+위 링크를 타고 이더스캔 주소로 이동하고, 메타마스크를 이더스캔과 연결한 다음, DAI 출금을 위해 BPT 출금을 요청하십시오
+
+#### 2. DAI를 contract에서 출금합니다
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/2.PNG">
+
+https://pools.balancer.exchange/#/pool/0xb135b31665bd67c4497f6eb3d5964e8897e5feb7/
+
+1번 단계에서 스테이킹 컨트랙트에서 BPT 토큰을 출금하셨으면, 위 발랜서 풀 페이지로 이동하여 Remove Liquidity 버튼을 클릭하시면 자동으로 DAI 가 지갑으로 인출되는 것을 확인하실 수 있습니다.
+
+#### 다시 한번 말씀드리지만, 99프로 이상의 DAI 가 유저들에 의해 자발적으로 환불 완료된 상황입니다.
+
+#### 제가 사용하는 SNS 계정은 디스코드 ( Jongchan J.#9357 - Inactive, asuka.finance#1669 ), 트위터 ( https://twitter.com/asukafinance ), 그리고 지메일 계정 ( crypto.asuka@gmail.com - Inactive, asukafinance20@gmail.com ) 밖에 없습니다. 최근 오픈카톡이나 코인판, 디시인사이드 등지에서 종찬, 아스카, wjcloud 등의 익명성 닉네임을 달고 타인이 제 사칭을 하면서 DAI, ASUKA 토큰 혹은 이더리움을 요구하는 사례를 목격하였습니다. 저는 금전이나 가상 자산을 요구하지 않으며, 위에 언급된 디스코드, 트위터, 그리고 지메일 계정을 제외하고는 모두 사칭입니다. 사칭에 유의하시길 당부 드립니다.
+
+
+### 질의응답 ( 08-09 )
+
+#### 1. 초기에 한국인, 혹은 외국인을 상대로 진행된 ASUKA 에어드랍은 ASUKA 토큰의 프로모션 목적입니까?
+
+저는 트위터나 YFI 디스코드, 코리아 디파이 텔레그램 방을 제외하고는 외부에 ASUKA 토큰에 대한 언급을 한 적이 없으며, ASUKA 에어드랍의 목적 또한 프로모션 목적이 아닙니다.
+
+ASUKA 스테이킹의 방식상 일정 비율의 ASUKA 가 발랜서 풀에 예치되어 있어야 하는데, 그것이 초기에 모두 소모되면서 ASUKA 토큰의 외부 분배가 절실한 상황이였습니다.
+
+따라서, 초기에는 ASUKA의 무상 분배가 이루어졌으나, 저희 익명 후원자분의 이더리움 계정 속 이더리움 잔고가 바닥이나 추가 에어드랍이 불가능한 상황이였습니다.
+
+그래서 불가피하게 에어드랍에 필요한 이더리움을 조달하기 위해서 최소한의 수수료를 에어드랍 수신자 분들에서 조달할 필요성이 생겨났고,
+
+1인당 5천원 정도의 이더리움을 먼저 송금 받고 에어드랍 토큰을 보내드리면서 이더리움 주소 검증 및 에어드랍 지급이 가능했습니다.
+
+받은 이더리움은 모두 이더리움 네트워크 수수료로 사용이 되었고, 초과해서 이더리움을 보내신 분들에게는 이더리움 환불이 이루어졌습니다.
+
+또한, 한국인을 상대로 의도적으로 ASUKA 에어드랍을 진행한 것은, 설령 한국인들에게 ASUKA 에어드랍을 진행해도 실제 스테이킹에 참여하시는 비율이 미미할 것이라고 생각했었습니다.
+
+실제로, 대다수의 한국인들이 ASUKA 를 지급 받으신 이후에 발랜서 플랫폼을 통해서 외국인 분들에게 ASUKA를 양도하였으며, 이는 제가 프로모션성 에어드랍으로 한국인 분들에게 ASUKA 토큰을 홍보하고, 그분들에 의해 예치된 DAI를 먹튀한다는 일부 주장과는 다릅니다. 
+
+#### 2. 먹튀하려고 ASUKA 만드셨습니까?
+
+만약에 제가 아스카 토큰을 통해서 먹튀를 시도하였다면 다른 YFI 포크 ( YYFI https://etherscan.io/address/0xbce6d09b800d0bc03f34ef93ed356519faec64d0 ) 의 사례처럼 초기에 DAI를 걷은 후,
+
+무한정의 ASUKA 토큰을 발행하여 사용자 분들의 DAI를 인출하였으면 그만입니다.
+
+하지만 저는 ASUKA 토큰 및 Balancer, 스테이킹 컨트랙트의 관리자 권한을 처음부터 보유하지 않았고,
+
+선채굴의 물량 또한 최소한으로 필요한 양 ( 150 ASUKA ) 을 제외하고는 모두 ( 850 ASUKA ) 소각 처리가 완료 되었습니다.
+
+만약에 제가 제 계정으로 에어드랍을 받았어도 일정 수량의 DAI를 출금할 수도 있었으나, 실제로 그러진 않았습니다.
+
+또한 제가 컨트랙트 업로드에 필요한 60만원 어치 이더리움을 제 스스로 조달할 수도 없었다는 점, 그리고 ASUKA 커뮤니티 운영의 공정성을 위하여 저는 ASUKA 컨트랙트 및 풀 생성을 한 이더리움 계정 https://etherscan.io/address/0xba7a937588035f953161160fea6cd880e46e6b33 을 소유한 적이 없습니다.
+
+익명의 후원자 분께서 그 계정을 소유하시고 초기에 예치한 ETH를 통해 ASUKA를 확보하여 스테이킹을 진행하셨었고, 그를 통해 얻은 DAI를 출금하신 것으로 압니다.
+
+이러한 사실이 왜곡되어서 제가 폰지사기 놀이터인 ASUKA를 만들어 용돈벌이를 했다는 주장은 저로 하여금 더 이상 제가 이 프로젝트를 지지할 의지를 상실하게 하였으며,
+
+실제로 이러한 주장이 퍼져 절반이 넘는 DAI가 컨트랙트에서 출금되고 저를 향한 도 넘은 비난과 조롱으로 인해 고통의 시간을 보내야만 했습니다.
+
+주장이 퍼질 초기에 저는 제가 아무 가산 자산을 보유하지 않았다고 디스코드 채널에 공지사항으로 올렸으나, 그럼에도 불구하고 잘못된 주장이 계속 유포되는 것을 지켜봐야만 했습니다.
+
+초기에 이 프로젝트를 위해 이더리움을 후원하신 분과 논의 끝에 홈페이지를 닫기로 결정하였고, 이는 홈페이지가 존재하지 않아도 유저들 스스로 DAI 인출이 가능하다는 생각을 바탕으로 결정한 것이였습니다.
+
+실제로 제가 홈페이지를 복구하기 전까지 약 99프로의 DAI가 출금 완료 되었으니 제가 DAI를 먹튀했다는 주장으로부터 저는 무고한 셈이 됩니다.
+
+만약 계속하여서 커뮤니티나 언론을 통해 잘못된 사실이 지속적으로 유포된다면 허위사실을 기재한 이는 그에 맞는 법적 책임을 져야할 것입니다.
+
+또한 저는 그 어떤 사기 사건에도 연루되었던 사실이 전혀 없습니다.
+
+저는 ASUKA를 돈이 된다는 식으로 홍보한 사실이 없으며, 제가 ASUKA에 대한 언급을 한 횟수 또한 10번 미만입니다. 또한, 앞서 말씀드린 것처럼 홈페이지 하단에 ASUKA 가 금전적인 가치를 지니지 않으며,
+
+이용 전에 충분한 연구를 해보라고 한 점 또한 저를 사기에서 무고하게 만들 것 입니다.
+
