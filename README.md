@@ -216,3 +216,9 @@ ASUKA 스테이킹의 방식상 일정 비율의 ASUKA 가 발랜서 풀에 예�
 저는 ASUKA를 돈이 된다는 식으로 홍보한 사실이 없으며, 제가 ASUKA에 대한 언급을 한 횟수 또한 10번 미만입니다. 또한, 앞서 말씀드린 것처럼 홈페이지 하단에 ASUKA 가 금전적인 가치를 지니지 않으며,
 
 이용 전에 충분한 연구를 해보라고 한 점 또한 저를 사기에서 무고하게 만들 것 입니다.
+
+### 추가 공지 (08-16)
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/3.PNG">
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/4.PNG">
