@@ -222,3 +222,31 @@ ASUKA 스테이킹의 방식상 일정 비율의 ASUKA 가 발랜서 풀에 예�
 <img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/3.PNG">
 
 <img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/4.PNG">
+
+### About me (08-17)
+
+http://bkhgogogo.blog.me/222050576433
+
+장총찬 -> 장종찬
+
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/5.jpg">
+
+~~근데 백종찬은 누구냐~~
+
+### Comment (08-17)
+
+https://www.coindeskkorea.com/news/articleView.html?idxno=71399
+
+```
+다만, 장종찬은 서비스 초기 아스카 토큰 50개를 스스로 가져갔으므로, 고점에서 이를 팔았다면 약 9500만원의 이익을 얻었을 수 있다. 그는 운영 수수료와 유동성을 위한 물량이었다고 해명했지만, 여전히 의혹은 남는다.
+```
+
+1. 나 장종찬은 이더리움에 ASUKA 컨트랙트와 Balancer 풀을 올릴 만한 이더리움 수수료가 없었다 ( 그래서 50개는 내가 가져간 게 아님 )
+
+2. 50개를 혼자 독식한 사람은 없다, 대다수의 ASUKA가 소량의 DAI와 함께 Balancer 풀에 0원에 가까운 가격에 예치되었으며, 이 예치된 금액을 뺄 수 있는 BPT 토큰은 https://etherscan.io/address/0x0000000000000000000000000000000deada50ca 소각 주소로 이동함.
+
+3. 그리고 50개나 내 수중에 있었으면 그 많은 DAI가 모일 수도 없었음....
+
+~~한겨례보다 기사를 못 쓰다니 유튜브만 찍으면 다냐 중앙일보는 반성하라~~
+
+~~나를 밴하다니 두고 보자 타로핀~~
