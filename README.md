@@ -158,7 +158,7 @@ https://pools.balancer.exchange/#/pool/0xb135b31665bd67c4497f6eb3d5964e8897e5feb
 
 #### 다시 한번 말씀드리지만, 99프로 이상의 DAI 가 유저들에 의해 자발적으로 환불 완료된 상황입니다.
 
-#### 제가 사용하는 SNS 계정은 디스코드 ( Jongchan J.#9357 - Inactive, asuka.finance#1669 ), 트위터 ( https://twitter.com/asukafinance ), 그리고 지메일 계정 ( crypto.asuka@gmail.com - Inactive, asukafinance20@gmail.com ) 밖에 없습니다. 최근 오픈카톡이나 코인판, 디시인사이드 등지에서 종찬, 아스카, wjcloud 등의 익명성 닉네임을 달고 타인이 제 사칭을 하면서 DAI, ASUKA 토큰 혹은 이더리움을 요구하는 사례를 목격하였습니다. 저는 금전이나 가상 자산을 요구하지 않으며, 위에 언급된 디스코드, 트위터, 그리고 지메일 계정을 제외하고는 모두 사칭입니다. 사칭에 유의하시길 당부 드립니다.
+#### 제가 사용하는 SNS 계정은 디스코드 ( Jongchan J.#9357 - Inactive, asuka.finance#1669 ), 트위터 ( https://twitter.com/asukafinance ), 그리고 지메일 계정 ( crypto.asuka@gmail.com - Inactive, asukafinance20@gmail.com ) 밖에 없습니다. 최근 오픈카톡이나 코인판, 디시인사이드 등지에서 종찬, 아스카 등의 익명성 닉네임을 달고 타인이 제 사칭을 하면서 DAI, ASUKA 토큰 혹은 이더리움을 요구하는 사례를 목격하였습니다. 저는 금전이나 가상 자산을 요구하지 않으며, 위에 언급된 디스코드, 트위터, 그리고 지메일 계정을 제외하고는 모두 사칭입니다. 사칭에 유의하시길 당부 드립니다.
 
 
 ### 질의응답 ( 08-09 )
